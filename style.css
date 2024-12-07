@@ -1,0 +1,64 @@
+h1 {
+    text-align:center;
+    color:rgb(250, 0, 0);
+    font-family:candara;
+}
+
+body {
+    background-color:rgb(225, 235, 118);
+    font-family:FANTASY;
+}
+
+.image {
+    border: solid rgb(189, 62, 62) 3px;
+    border-radius: 5px;
+}
+
+main p {
+    text-align:center;
+    border: solid rgb(255, 81, 0) 3px;
+    border-radius: 5px;
+    padding:3px;
+    margin:3px;
+}
+
+h2 {
+    text-align:center;
+    color:red;
+    font-family:FANTASY;
+}
+
+p img {
+    border:2px solid red;
+    
+}
+
+p {
+    text-align:center;
+}
+
+.peshka {
+    text-align:center;
+    border: solid rgb(255, 166, 0) 3px;
+    border-radius: 5px;
+    padding:3px;
+    margin:3px;
+}
+
+footer {
+    text-align:center;
+    border: solid rgb(255, 166, 0) 3px;
+    border-radius: 5px;
+    padding:3px;
+    margin:3px;
+    border-collapse:collapse;
+}
+footer p {
+    text-align:center;
+    border: solid rgb(119, 11, 29) 3px;
+    border-radius: 5px;
+    padding:3px;
+    margin:3px;
+}
+
+
